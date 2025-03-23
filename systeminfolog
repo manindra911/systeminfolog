@@ -1,0 +1,20 @@
+systeminfo` is a command that shows complete details about your computer.  
+When you open CMD and type `systeminfo`, it shows information like:
+- Which version of Windows you have  
+- How much RAM is installed  
+- What processor you're using  
+- When your system was installed  
+- BIOS version and many other details
+
+If you want to save all this info in a file, just type:
+```
+systeminfo > SysteminfoLog.txt
+```
+It will create a file with all the system information inside.
+
+---
+
+## Websites I Used:
+
+1. [GeeksforGeeks - Systeminfo Command](https://www.geeksforgeeks.org/systeminfo-command-in-windows-with-examples/)
+2. [Windows Command Line - Systeminfo](https://www.windows-commandline.com/systeminfo-command/)
